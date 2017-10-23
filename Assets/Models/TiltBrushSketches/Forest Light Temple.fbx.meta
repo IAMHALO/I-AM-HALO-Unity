@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: a0323d09dbafe4147a7d497bf8e1489c
+timeCreated: 1508716707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Forest_Light_Temple_CoarseBristles_geo
+    100004: Forest_Light_Temple_DoubleTaperedFlat_geo
+    100006: Forest_Light_Temple_DoubleTaperedFlat_geo 1
+    100008: Forest_Light_Temple_DoubleTaperedMarker_geo
+    100010: Forest_Light_Temple_Fire_geo
+    100012: Forest_Light_Temple_Flat_geo
+    100014: Forest_Light_Temple_Flat_geo 1
+    100016: Forest_Light_Temple_Flat_geo 2
+    100018: Forest_Light_Temple_Hypercolor_geo
+    100020: Forest_Light_Temple_Ink_geo
+    100022: Forest_Light_Temple_Light_geo
+    100024: Forest_Light_Temple_Marker_geo
+    100026: Forest_Light_Temple_OilPaint_geo
+    100028: Forest_Light_Temple_Smoke_geo
+    100030: Forest_Light_Temple_SoftHighlighter_geo
+    100032: Forest_Light_Temple_SoftHighlighter_geo 1
+    100034: Forest_Light_Temple_SoftHighlighter_geo 2
+    100036: Forest_Light_Temple_SoftHighlighter_geo 3
+    100038: Forest_Light_Temple_SoftHighlighter_geo 4
+    100040: Forest_Light_Temple_TaperedFlat_geo
+    100042: Forest_Light_Temple_TaperedFlat_geo 1
+    100044: Forest_Light_Temple_TaperedFlat_geo 10
+    100046: Forest_Light_Temple_TaperedFlat_geo 11
+    100048: Forest_Light_Temple_TaperedFlat_geo 12
+    100050: Forest_Light_Temple_TaperedFlat_geo 13
+    100052: Forest_Light_Temple_TaperedFlat_geo 14
+    100054: Forest_Light_Temple_TaperedFlat_geo 15
+    100056: Forest_Light_Temple_TaperedFlat_geo 16
+    100058: Forest_Light_Temple_TaperedFlat_geo 17
+    100060: Forest_Light_Temple_TaperedFlat_geo 18
+    100062: Forest_Light_Temple_TaperedFlat_geo 19
+    100064: Forest_Light_Temple_TaperedFlat_geo 2
+    100066: Forest_Light_Temple_TaperedFlat_geo 20
+    100068: Forest_Light_Temple_TaperedFlat_geo 3
+    100070: Forest_Light_Temple_TaperedFlat_geo 4
+    100072: Forest_Light_Temple_TaperedFlat_geo 5
+    100074: Forest_Light_Temple_TaperedFlat_geo 6
+    100076: Forest_Light_Temple_TaperedFlat_geo 7
+    100078: Forest_Light_Temple_TaperedFlat_geo 8
+    100080: Forest_Light_Temple_TaperedFlat_geo 9
+    100082: Forest_Light_Temple_TaperedMarker_geo
+    400000: //RootNode
+    400002: Forest_Light_Temple_CoarseBristles_geo
+    400004: Forest_Light_Temple_DoubleTaperedFlat_geo
+    400006: Forest_Light_Temple_DoubleTaperedFlat_geo 1
+    400008: Forest_Light_Temple_DoubleTaperedMarker_geo
+    400010: Forest_Light_Temple_Fire_geo
+    400012: Forest_Light_Temple_Flat_geo
+    400014: Forest_Light_Temple_Flat_geo 1
+    400016: Forest_Light_Temple_Flat_geo 2
+    400018: Forest_Light_Temple_Hypercolor_geo
+    400020: Forest_Light_Temple_Ink_geo
+    400022: Forest_Light_Temple_Light_geo
+    400024: Forest_Light_Temple_Marker_geo
+    400026: Forest_Light_Temple_OilPaint_geo
+    400028: Forest_Light_Temple_Smoke_geo
+    400030: Forest_Light_Temple_SoftHighlighter_geo
+    400032: Forest_Light_Temple_SoftHighlighter_geo 1
+    400034: Forest_Light_Temple_SoftHighlighter_geo 2
+    400036: Forest_Light_Temple_SoftHighlighter_geo 3
+    400038: Forest_Light_Temple_SoftHighlighter_geo 4
+    400040: Forest_Light_Temple_TaperedFlat_geo
+    400042: Forest_Light_Temple_TaperedFlat_geo 1
+    400044: Forest_Light_Temple_TaperedFlat_geo 10
+    400046: Forest_Light_Temple_TaperedFlat_geo 11
+    400048: Forest_Light_Temple_TaperedFlat_geo 12
+    400050: Forest_Light_Temple_TaperedFlat_geo 13
+    400052: Forest_Light_Temple_TaperedFlat_geo 14
+    400054: Forest_Light_Temple_TaperedFlat_geo 15
+    400056: Forest_Light_Temple_TaperedFlat_geo 16
+    400058: Forest_Light_Temple_TaperedFlat_geo 17
+    400060: Forest_Light_Temple_TaperedFlat_geo 18
+    400062: Forest_Light_Temple_TaperedFlat_geo 19
+    400064: Forest_Light_Temple_TaperedFlat_geo 2
+    400066: Forest_Light_Temple_TaperedFlat_geo 20
+    400068: Forest_Light_Temple_TaperedFlat_geo 3
+    400070: Forest_Light_Temple_TaperedFlat_geo 4
+    400072: Forest_Light_Temple_TaperedFlat_geo 5
+    400074: Forest_Light_Temple_TaperedFlat_geo 6
+    400076: Forest_Light_Temple_TaperedFlat_geo 7
+    400078: Forest_Light_Temple_TaperedFlat_geo 8
+    400080: Forest_Light_Temple_TaperedFlat_geo 9
+    400082: Forest_Light_Temple_TaperedMarker_geo
+    2300000: Forest_Light_Temple_CoarseBristles_geo
+    2300002: Forest_Light_Temple_DoubleTaperedFlat_geo
+    2300004: Forest_Light_Temple_DoubleTaperedFlat_geo 1
+    2300006: Forest_Light_Temple_DoubleTaperedMarker_geo
+    2300008: Forest_Light_Temple_Fire_geo
+    2300010: Forest_Light_Temple_Flat_geo
+    2300012: Forest_Light_Temple_Flat_geo 1
+    2300014: Forest_Light_Temple_Flat_geo 2
+    2300016: Forest_Light_Temple_Hypercolor_geo
+    2300018: Forest_Light_Temple_Ink_geo
+    2300020: Forest_Light_Temple_Light_geo
+    2300022: Forest_Light_Temple_Marker_geo
+    2300024: Forest_Light_Temple_OilPaint_geo
+    2300026: Forest_Light_Temple_Smoke_geo
+    2300028: Forest_Light_Temple_SoftHighlighter_geo
+    2300030: Forest_Light_Temple_SoftHighlighter_geo 1
+    2300032: Forest_Light_Temple_SoftHighlighter_geo 2
+    2300034: Forest_Light_Temple_SoftHighlighter_geo 3
+    2300036: Forest_Light_Temple_SoftHighlighter_geo 4
+    2300038: Forest_Light_Temple_TaperedFlat_geo
+    2300040: Forest_Light_Temple_TaperedFlat_geo 1
+    2300042: Forest_Light_Temple_TaperedFlat_geo 10
+    2300044: Forest_Light_Temple_TaperedFlat_geo 11
+    2300046: Forest_Light_Temple_TaperedFlat_geo 12
+    2300048: Forest_Light_Temple_TaperedFlat_geo 13
+    2300050: Forest_Light_Temple_TaperedFlat_geo 14
+    2300052: Forest_Light_Temple_TaperedFlat_geo 15
+    2300054: Forest_Light_Temple_TaperedFlat_geo 16
+    2300056: Forest_Light_Temple_TaperedFlat_geo 17
+    2300058: Forest_Light_Temple_TaperedFlat_geo 18
+    2300060: Forest_Light_Temple_TaperedFlat_geo 19
+    2300062: Forest_Light_Temple_TaperedFlat_geo 2
+    2300064: Forest_Light_Temple_TaperedFlat_geo 20
+    2300066: Forest_Light_Temple_TaperedFlat_geo 3
+    2300068: Forest_Light_Temple_TaperedFlat_geo 4
+    2300070: Forest_Light_Temple_TaperedFlat_geo 5
+    2300072: Forest_Light_Temple_TaperedFlat_geo 6
+    2300074: Forest_Light_Temple_TaperedFlat_geo 7
+    2300076: Forest_Light_Temple_TaperedFlat_geo 8
+    2300078: Forest_Light_Temple_TaperedFlat_geo 9
+    2300080: Forest_Light_Temple_TaperedMarker_geo
+    3300000: Forest_Light_Temple_CoarseBristles_geo
+    3300002: Forest_Light_Temple_DoubleTaperedFlat_geo
+    3300004: Forest_Light_Temple_DoubleTaperedFlat_geo 1
+    3300006: Forest_Light_Temple_DoubleTaperedMarker_geo
+    3300008: Forest_Light_Temple_Fire_geo
+    3300010: Forest_Light_Temple_Flat_geo
+    3300012: Forest_Light_Temple_Flat_geo 1
+    3300014: Forest_Light_Temple_Flat_geo 2
+    3300016: Forest_Light_Temple_Hypercolor_geo
+    3300018: Forest_Light_Temple_Ink_geo
+    3300020: Forest_Light_Temple_Light_geo
+    3300022: Forest_Light_Temple_Marker_geo
+    3300024: Forest_Light_Temple_OilPaint_geo
+    3300026: Forest_Light_Temple_Smoke_geo
+    3300028: Forest_Light_Temple_SoftHighlighter_geo
+    3300030: Forest_Light_Temple_SoftHighlighter_geo 1
+    3300032: Forest_Light_Temple_SoftHighlighter_geo 2
+    3300034: Forest_Light_Temple_SoftHighlighter_geo 3
+    3300036: Forest_Light_Temple_SoftHighlighter_geo 4
+    3300038: Forest_Light_Temple_TaperedFlat_geo
+    3300040: Forest_Light_Temple_TaperedFlat_geo 1
+    3300042: Forest_Light_Temple_TaperedFlat_geo 10
+    3300044: Forest_Light_Temple_TaperedFlat_geo 11
+    3300046: Forest_Light_Temple_TaperedFlat_geo 12
+    3300048: Forest_Light_Temple_TaperedFlat_geo 13
+    3300050: Forest_Light_Temple_TaperedFlat_geo 14
+    3300052: Forest_Light_Temple_TaperedFlat_geo 15
+    3300054: Forest_Light_Temple_TaperedFlat_geo 16
+    3300056: Forest_Light_Temple_TaperedFlat_geo 17
+    3300058: Forest_Light_Temple_TaperedFlat_geo 18
+    3300060: Forest_Light_Temple_TaperedFlat_geo 19
+    3300062: Forest_Light_Temple_TaperedFlat_geo 2
+    3300064: Forest_Light_Temple_TaperedFlat_geo 20
+    3300066: Forest_Light_Temple_TaperedFlat_geo 3
+    3300068: Forest_Light_Temple_TaperedFlat_geo 4
+    3300070: Forest_Light_Temple_TaperedFlat_geo 5
+    3300072: Forest_Light_Temple_TaperedFlat_geo 6
+    3300074: Forest_Light_Temple_TaperedFlat_geo 7
+    3300076: Forest_Light_Temple_TaperedFlat_geo 8
+    3300078: Forest_Light_Temple_TaperedFlat_geo 9
+    3300080: Forest_Light_Temple_TaperedMarker_geo
+    4300000: Forest_Light_Temple_OilPaint_geo
+    4300002: Forest_Light_Temple_Flat_geo
+    4300004: Forest_Light_Temple_Flat_geo
+    4300006: Forest_Light_Temple_Flat_geo
+    4300008: Forest_Light_Temple_DoubleTaperedFlat_geo
+    4300010: Forest_Light_Temple_DoubleTaperedFlat_geo
+    4300012: Forest_Light_Temple_TaperedFlat_geo
+    4300014: Forest_Light_Temple_TaperedFlat_geo
+    4300016: Forest_Light_Temple_TaperedFlat_geo
+    4300018: Forest_Light_Temple_TaperedFlat_geo
+    4300020: Forest_Light_Temple_TaperedFlat_geo
+    4300022: Forest_Light_Temple_TaperedFlat_geo
+    4300024: Forest_Light_Temple_TaperedFlat_geo
+    4300026: Forest_Light_Temple_TaperedFlat_geo
+    4300028: Forest_Light_Temple_TaperedFlat_geo
+    4300030: Forest_Light_Temple_TaperedFlat_geo
+    4300032: Forest_Light_Temple_TaperedFlat_geo
+    4300034: Forest_Light_Temple_TaperedFlat_geo
+    4300036: Forest_Light_Temple_TaperedFlat_geo
+    4300038: Forest_Light_Temple_TaperedFlat_geo
+    4300040: Forest_Light_Temple_TaperedFlat_geo
+    4300042: Forest_Light_Temple_TaperedFlat_geo
+    4300044: Forest_Light_Temple_TaperedFlat_geo
+    4300046: Forest_Light_Temple_TaperedFlat_geo
+    4300048: Forest_Light_Temple_TaperedFlat_geo
+    4300050: Forest_Light_Temple_TaperedFlat_geo
+    4300052: Forest_Light_Temple_TaperedFlat_geo
+    4300054: Forest_Light_Temple_CoarseBristles_geo
+    4300056: Forest_Light_Temple_Light_geo
+    4300058: Forest_Light_Temple_SoftHighlighter_geo
+    4300060: Forest_Light_Temple_SoftHighlighter_geo
+    4300062: Forest_Light_Temple_SoftHighlighter_geo
+    4300064: Forest_Light_Temple_SoftHighlighter_geo
+    4300066: Forest_Light_Temple_SoftHighlighter_geo
+    4300068: Forest_Light_Temple_Marker_geo
+    4300070: Forest_Light_Temple_Ink_geo
+    4300072: Forest_Light_Temple_DoubleTaperedMarker_geo
+    4300074: Forest_Light_Temple_Smoke_geo
+    4300076: Forest_Light_Temple_Hypercolor_geo
+    4300078: Forest_Light_Temple_TaperedMarker_geo
+    4300080: Forest_Light_Temple_Fire_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
